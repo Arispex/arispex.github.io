@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Arispex",
+            "address": "https://ani.arispex.com"
+        }
+    ]
+}
